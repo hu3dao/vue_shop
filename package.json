@@ -13,6 +13,8 @@
     "cors": "^2.8.5",
     "element-ui": "^2.4.5",
     "express": "^4.17.1",
+    "less": "^3.11.1",
+    "less-loader": "^6.1.0",
     "mongoose": "^5.9.13",
     "vue": "^2.6.11",
     "vue-router": "^3.1.6"
