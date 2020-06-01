@@ -390,7 +390,6 @@ export default {
 <style lang="less" scoped>
 .el-breadcrumb {
   margin-bottom: 15px;
-  font-size: 12px;
 }
 
 .el-card {
