@@ -317,6 +317,7 @@ export default {
         if (res.meta.status !== 200) this.$message.error("修改参数失败");
         this.$message.success("修改参数成功");
         this.saveAttrVals(this.editForm);
+
         this.getParamsData();
 
         this.editDialogVisible = false;
